@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<provincias>
+    <provincia cp="41">Sevilla</provincia>
+    <provincia cp="21">Huelva</provincia>
+    <provincia cp="11">Cádiz</provincia>
+    <provincia cp="14">Córdoba</provincia>
+    <provincia cp="23">Jaén</provincia>
+    <provincia cp="29">Málaga</provincia>
+    <provincia cp="18">Granada</provincia>
+    <provincia cp="04">Almería</provincia>
+</provincias>

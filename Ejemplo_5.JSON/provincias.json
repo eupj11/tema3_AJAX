@@ -1,0 +1,12 @@
+{
+    "provincias": [
+        {"nombre": "Sevilla", "cp": "41"},
+        {"nombre": "Huelva", "cp": "21"},
+        {"nombre": "Cádiz", "cp": "11"},
+        {"nombre": "Córdoba", "cp": "14"},
+        {"nombre": "Jaén", "cp": "23"},
+        {"nombre": "Málaga", "cp": "29"},
+        {"nombre": "Granada", "cp": "18"},
+        {"nombre": "Almería", "cp": "04"}
+    ]
+}
