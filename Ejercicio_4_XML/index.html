@@ -1,0 +1,25 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>DWEC_T3_Ejercicio5_Coches_XML_2</title>
+    </head>
+    <body>
+        <h1>DWEC_T3_Ejercicio5_Coches_XML_2</h1>
+
+        <!-- Inicio script JavaScript -->
+        <script>            
+              //Completa tu programa
+              let xmlhttp = new XMLHttpRequest();
+              xmlhttp.onreadystatechange = function(){
+                if(this.readyState == 4 && this.status == 200){
+                    var xmlDoc = this.responseXML;
+                    let marcas = xmlDoc.getElementsByTagName("marca");
+                    
+                }
+              }       
+        </script>
+    </body>
+</html>
